@@ -1,0 +1,17 @@
+@import './../../Assets/Styles/variables';
+.PopularTopics{
+    .PopularTopicsHeader{
+        text-align: center;
+        h5{
+            color: $SecondaryColor;
+        }
+    }
+    .PopularTopicsCards{
+        .PopularTopicsCardsItem{
+            border: 1px solid rgb(206, 194, 194);
+            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+            border-radius: 15px;
+            text-align: center;
+        }
+    }
+}

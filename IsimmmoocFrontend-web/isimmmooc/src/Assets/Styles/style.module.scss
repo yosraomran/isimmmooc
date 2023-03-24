@@ -1,0 +1,11 @@
+@import './variables';
+
+:export {
+ PrimaryColor : $PrimaryColor;
+ SecondaryColor : $SecondaryColor;
+ TertiaryColor : $TertiaryColor;
+ QuaternaryColor : $QuaternaryColor;
+ PrimaryColorLight: $PrimaryColorLight;
+ PrimaryColorDark: $PrimaryColorDark;
+ SecondaryColorDark: $SecondaryColorDark;
+}
